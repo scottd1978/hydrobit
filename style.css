@@ -4,6 +4,9 @@ html, body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     color: #ffffff;
     background-color: #0d1e2f;
+    overflow-x: hidden;
+    position: relative;
+    width: 100%;
 }
 
 body {
